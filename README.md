@@ -1,1 +1,1 @@
-Sport Facilities Reservation App
+Sport Facilities Reservation App - booking of sport facilities
